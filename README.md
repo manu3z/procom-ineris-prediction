@@ -14,7 +14,7 @@
     <img src="images/imta.jpg" alt="Logo IMTA" width="80" height="60">
     </a>
     <a href="https://www.ineris.fr/en">
-    <img src="images/ineris.png" alt="Logo INERIS" width="100" height="100">
+    <img src="images/ineris.png" alt="Logo INERIS" width="80" height="80">
     </a>
   </h3>
 </div>

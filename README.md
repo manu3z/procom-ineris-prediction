@@ -112,7 +112,9 @@ Manuel SANCHEZ-LAGUARDIA : [Mail](mailto:manuel.sanchez-laguardia@imt-atlantique
 
 Jonny Alexander TORRES ROBLES : [Mail](mailto:jonnyy-alexander.torres-robles@imt-atlantique.net) - [LinkedIn](https://www.linkedin.com/in/jonnyytorres/)
 
-Project Link: [https://github.com/manu3z/procom-ineris-prediction](https://github.com/manu3z/procom-ineris-prediction)
+Marianne BELLERY : [Mail](mailto:marianne.bellery@imt-atlantique.net@imt-atlantique.net)
+
+Joel IRIE : [Mail](mailto:bi-doubi-armel-joel.irie@imt-atlantique.net)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

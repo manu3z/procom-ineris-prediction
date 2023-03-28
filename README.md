@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Prediction France][product-screenshot]]
+[![Proportion Original][proportion-original]] [![Proportion Original][proportion-predicted]]
 
 This project has the objective to train a machine learning algorithm with high resolution data from France, in order to be able to use this model as a super-resolution prediction tool applied in other countries with lower resolution data.
 
@@ -119,21 +119,9 @@ Joel IRIE : [Mail](mailto:bi-doubi-armel-joel.irie@imt-atlantique.net)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+<!-- IMAGES and LINKS-->
+[proportion-original]: images/70203_ORIG.png
+[proportion-predicted]: images/70203_RF_Final.png
 
 [Python.org]: https://img.shields.io/badge/-Python-yellow?logo=python&style=flat&logoWidth=30
 [Python-url]: https://www.python.org/

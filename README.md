@@ -47,8 +47,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<h3 align="center">
+<a href="https://github.com/manu3z/procom-ineris-prediction/blob/main/images/70203_ORIG.png">
+    <img src="images/70203_ORIG.png" alt="Proportion Original" width="400" height="300">
+</a>
+<a href="https://github.com/manu3z/procom-ineris-prediction/blob/main/images/70203_RF_Final.png">
+    <img src="images/70203_RF_Final.png" alt="Proportion Predicted" width="400" height="300">
+</a>
+</h3>
 
-[![Proportion Original][proportion-original]] [![Proportion Original][proportion-predicted]]
+![Proportion Original][proportion-original] ![Proportion Predicted][proportion-predicted]
 
 This project has the objective to train a machine learning algorithm with high resolution data from France, in order to be able to use this model as a super-resolution prediction tool applied in other countries with lower resolution data.
 

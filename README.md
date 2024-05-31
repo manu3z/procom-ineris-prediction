@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h1 align="center">Prediction of air pollutant emissions based on learning methods</h1>
+  <h1 align="center">Prediction of air pollutant emissions based on machine learning methods</h1>
 
   <h3 align="center">
     Collaboration between IMT Atlantique students and INERIS
